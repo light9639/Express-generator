@@ -1,4 +1,8 @@
 # :zap: Express-generator 기본 템플릿.
+
+![localhost_3000_](https://user-images.githubusercontent.com/95972251/204212320-f784f25b-8bbd-4a0f-a96b-f747074c482c.png)
+
+:sparkles: Express-generator 기본 템플릿입니다. :sparkles:
 ## :tada: Express-generator 설치하기
 - npm, yarn을 이용하여 설치하려면 
 ```bash
