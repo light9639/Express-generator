@@ -35,3 +35,6 @@ app.set('port', port);
 ```
 
 - 설정 이후 `npm run start` 또는 `yarn start` 입력 후. 해당 포트를 기준으로 localhost:3000으로 접속하면 됩니다.
+
+## 📎 출처
+- https://expressjs.com/en/starter/generator.html 문서를 토대로 작성하였습니다.
